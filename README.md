@@ -1,5 +1,4 @@
 # Customer_Churn_Prediction
-# Customer Churn Prediction
 
 ## Overview
 This project focuses on predicting customer churn using machine learning techniques. The goal is to identify customers who are likely to leave a service, enabling proactive retention strategies.
